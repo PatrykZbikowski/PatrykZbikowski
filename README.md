@@ -3,15 +3,15 @@
 <!---**PatrykZbik/PatrykZbik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
 
-- 🔭 I’m currently working on getting my Bachelor of Computer Science Degree at Conestoga College
+- 🔭 I’m currently in my third year of my Bachelor of Computer Science Degree at Conestoga College
 
-- 🌱 I’m currently learning full stack web development and Python programming
+- 🌱 At the moment learning full stack web development and Python programming
 
 - 👯 Great at working in teams to accomplish tasks and produce robust and well produced projects 
 
-- 🤔 I’m looking forward to obaining a Co-op Position
+- 😃 I’m looking forward to obaining a Co-op Position
 
-- 💬 Ask me about the places i have visited
+- 💬 Ask me about the places I have visited
 
 - 📫 How to reach me: patryk.zbikowski01@gmail.com
 
