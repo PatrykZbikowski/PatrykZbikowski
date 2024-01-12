@@ -17,4 +17,3 @@
 
 - ⚡ Fun fact: I've been snowboarding for over 16 years of my life!
 
-<div align=center><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykZbikowski&layout=compact&theme=panda&hide_border=true" /></a></div>
