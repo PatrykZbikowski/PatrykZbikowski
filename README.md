@@ -6,6 +6,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+https://img.shields.io/badge/LinkedIn-blue
+
 - 🔭 I’m currently in my third year of my Bachelor of Computer Science Degree at Conestoga College
 
 - 🌱 At the moment learning full stack web development and Python programming
