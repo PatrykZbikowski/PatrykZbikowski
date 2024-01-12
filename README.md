@@ -33,7 +33,12 @@
 
 ### :card_file_box: My Projects :
 
-
+#### Project 1: [Amzon Ecommerce Website](https://github.com/melbasiouny/eCommerce-Product-Module![image](https://github.com/PatrykZbikowski/PatrykZbikowski/assets/39310009/56aea388-bea0-41dc-a171-6d608620faec)
+)
+- Description: Briefly describe what the project is about.
+- Technologies used: List the technologies and tools used in the project.
+- My Contribution: Describe your role or contributions to this project.
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
