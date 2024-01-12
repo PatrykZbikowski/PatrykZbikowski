@@ -12,7 +12,7 @@
   </a>
 </div>
 
-### 👱‍♂️: About Me :
+### man_technologist: About Me :
 - 🔭 I’m currently in my third year of my Bachelor of Computer Science Degree at Conestoga College
 
 - 🌱 At the moment learning full stack web development and Python programming
