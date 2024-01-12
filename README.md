@@ -6,7 +6,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-https://img.shields.io/badge/LinkedIn-blue
+<div id="badges">
+  <a href="https://www.linkedin.com/in/patryk-zbikowski-33a5a122a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 - 🔭 I’m currently in my third year of my Bachelor of Computer Science Degree at Conestoga College
 
