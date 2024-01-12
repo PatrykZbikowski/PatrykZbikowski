@@ -1,5 +1,5 @@
 <!---# Hi there, thanks for visiting my page!👋😄--->
-<h1 align="center">Hi there, thanks for visiting my page!👋😄</h1>
+<h1 align="center">Thanks for visiting my page!👋😄</h1>
 <!---**PatrykZbik/PatrykZbik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
 <div id="header" align="center">
