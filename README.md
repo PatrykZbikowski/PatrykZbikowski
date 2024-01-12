@@ -28,6 +28,11 @@
 - 📫 How to reach me: patryk.zbikowski01@gmail.com
 
 - ⚡ Fun fact: I've been snowboarding for over 16 years of my life!
+  
+---
+
+### :Map: About Me :
+
 
 ---
 
@@ -49,5 +54,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+
 
 
