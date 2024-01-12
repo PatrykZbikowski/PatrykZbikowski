@@ -2,6 +2,9 @@
 <h1 align="center">Hi there, thanks for visiting my page!👋😄</h1>
 <!---**PatrykZbik/PatrykZbik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 - 🔭 I’m currently in my third year of my Bachelor of Computer Science Degree at Conestoga College
 
@@ -17,4 +20,3 @@
 
 - ⚡ Fun fact: I've been snowboarding for over 16 years of my life!
 
-https://github.com/CyrilKamal/CSCN71030-21W-CourseProject
