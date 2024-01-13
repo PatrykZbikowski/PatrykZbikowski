@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there, i'm Patryk Zbikowski!👋😄</h1>
+<h1 align="center">✨Welcome! I'm Patryk Zbikowski✨</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -31,12 +31,25 @@
 ---
 
 ### :card_file_box: My Projects :
+---
 Amzon Ecommerce Website
+[![Project Image](https://github.com/PatrykZbikowski/PatrykZbikowski/assets/39310009/1f5854c1-8374-40f9-b438-b0b26c741c64)]([https://github.com/OGarland001/COMP72070-23W-Sec1-Project-IV-Group-1)
+
+---
+ClassifAI
+[![Project Image](![image](https://github.com/PatrykZbikowski/PatrykZbikowski/assets/39310009/6ace39ac-2016-4f10-8189-c17234e081f4)
+)](https://github.com/melbasiouny/eCommerce-Product-Module)
+
+---
+Water Health System 3000
 [![Project Image](https://github.com/PatrykZbikowski/PatrykZbikowski/assets/39310009/1f5854c1-8374-40f9-b438-b0b26c741c64)](https://github.com/melbasiouny/eCommerce-Product-Module)
-- Description: Briefly describe what the project is about.
-- Technologies used: List the technologies and tools used in the project.
-- My Contribution: Describe your role or contributions to this project.
-  
+
+---
+Guitar Guru
+[![Project Image](![image](https://github.com/PatrykZbikowski/PatrykZbikowski/assets/39310009/d34b0e5e-8f0c-43b7-8cc4-cd7cda2b05ef)
+)]([https://github.com/melbasiouny/eCommerce-Product-Module](https://github.com/BroCoRo/Ctrl-Alt-Defeat-Guitar-Guru))
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
