@@ -46,8 +46,7 @@ Water Health System 3000
 
 ---
 Guitar Guru
-[![Project Image](![image](https://github.com/PatrykZbikowski/PatrykZbikowski/assets/39310009/d34b0e5e-8f0c-43b7-8cc4-cd7cda2b05ef)
-)]([https://github.com/melbasiouny/eCommerce-Product-Module](https://github.com/BroCoRo/Ctrl-Alt-Defeat-Guitar-Guru))
+[![Project Image](![image](![Screenshot 2024-01-13 163244](https://github.com/PatrykZbikowski/PatrykZbikowski/assets/39310009/3025c141-a7a2-47b9-98db-ee7bc6c153fb)]([https://github.com/melbasiouny/eCommerce-Product-Module](https://github.com/BroCoRo/Ctrl-Alt-Defeat-Guitar-Guru))
 
 
 ---
