@@ -37,8 +37,8 @@ Amzon Ecommerce Website
 
 ---
 ClassifAI
-[![Project Image](![image](https://github.com/PatrykZbikowski/PatrykZbikowski/assets/39310009/6ace39ac-2016-4f10-8189-c17234e081f4)
-)](https://github.com/melbasiouny/eCommerce-Product-Module)
+[![Project Image](https://github.com/PatrykZbikowski/PatrykZbikowski/assets/39310009/6ace39ac-2016-4f10-8189-c17234e081f4)]
+(https://github.com/melbasiouny/eCommerce-Product-Module)
 
 ---
 Water Health System 3000
