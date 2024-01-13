@@ -30,45 +30,6 @@
   
 ---
 
-### :card_file_box: My Projects :
----
-Amzon Ecommerce Website
-[![Project Image](https://github.com/PatrykZbikowski/PatrykZbikowski/assets/39310009/1f5854c1-8374-40f9-b438-b0b26c741c64)]([https://github.com/OGarland001/COMP72070-23W-Sec1-Project-IV-Group-1)
-
----
-ClassifAI
-[![Project Image](https://github.com/PatrykZbikowski/PatrykZbikowski/assets/39310009/6ace39ac-2016-4f10-8189-c17234e081f4)]
-(https://github.com/OGarland001/COMP72070-23W-Sec1-Project-IV-Group-1)
-
----
-Water Health System 3000
-[![Project Image](https://github.com/PatrykZbikowski/PatrykZbikowski/assets/39310009/1f5854c1-8374-40f9-b438-b0b26c741c64)](https://github.com/PatrykZbikowski/WaterHealthSystem3000)
-
----
-Guitar Guru
-[![Project Image](Screenshot 2024-01-13 163244)](https://github.com/PatrykZbikowski/WaterHealthSystem3000)
-
-
-<table>
-  <tr>
-    <td>       
-      <img width="270" alt="Guitar Guru" src="![image](https://github.com/PatrykZbikowski/PatrykZbikowski/assets/39310009/44f9d107-78af-4cb1-8648-fd0f27b23e4d)
-">
-      <a href="https://github.com/BroCoRo/Ctrl-Alt-Defeat-Guitar-Guru">
-      </a>
-    </td>
-   </tr> 
-
-   <tr>
-    <td>       
-      <img width="270" alt="Amzon Ecommerce" src="https://github.com/PatrykZbikowski/PatrykZbikowski/assets/39310009/3025c141-a7a2-47b9-98db-ee7bc6c153fb">
-      <a href="https://github.com/BroCoRo/Ctrl-Alt-Defeat-Guitar-Guru">
-      </a>
-    </td>
-   </tr> 
-</table>
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
