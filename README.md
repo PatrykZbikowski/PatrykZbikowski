@@ -52,7 +52,16 @@ Guitar Guru
 Guitar Guru
 (![Screenshot 2024-01-13 163244](https://github.com/PatrykZbikowski/PatrykZbikowski/assets/39310009/3025c141-a7a2-47b9-98db-ee7bc6c153fb)]([https://github.com/melbasiouny/eCommerce-Product-Module](https://github.com/BroCoRo/Ctrl-Alt-Defeat-Guitar-Guru))
 
-
+<table>
+  <tr>
+    <td>       
+      <img width="270" alt="Amzon Ecommerce" src="https://github.com/BroCoRo/BroCoRo/assets/85836332/98f9189e-d595-4eee-846d-80c62a5077a9">
+      <a href="https://github.com/melbasiouny/eCommerce-Product-Module">
+      </a>
+    </td>
+   </tr> 
+  
+</table>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
